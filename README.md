@@ -38,6 +38,7 @@ The game will be a small, open-world, third-person, exploration game set on an i
 ## Accessibility Considerations
 
 - [Motor Disabilities](https://www.youtube.com/watch?v=Ufe0i26DGiA)
+- [Colorblindness and Low Vision](https://www.youtube.com/watch?v=xrqdU4cZaLw)
 - [Deaf and Hard of Hearing](https://www.youtube.com/watch?v=4NGe4dzlukc)
 
 ## References
