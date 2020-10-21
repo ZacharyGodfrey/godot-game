@@ -35,6 +35,11 @@ The game will be a small, open-world, third-person, exploration game set on an i
 - [Firewatch](https://www.youtube.com/watch?v=O_r6t6_bN3c)
 - [Lonely Mountains Downhill](https://www.youtube.com/watch?v=D9DCEm4u6QA)
 
+## Accessibility Considerations
+
+- [Motor Disabilities](https://www.youtube.com/watch?v=Ufe0i26DGiA)
+- [Deaf and Hard of Hearing](https://www.youtube.com/watch?v=4NGe4dzlukc)
+
 ## References
 
 - [Basics](https://www.youtube.com/watch?v=-D-IcbsdT04)
