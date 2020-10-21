@@ -6,6 +6,23 @@ A first attempt at making a game with the Godot engine.
 
 The game will be a small, open-world, third-person, exploration game set on an island with an art style that is low-poly, but not blocky, with a bright and happy color palette.
 
+## Ideas
+
+- Use a to-do list to guide the player.
+- Make menus look like paper with writing on it.
+- The game should have a bright, happy look to it.
+- The game should feel relaxing, lightweight, low-consequence.
+- The game should play like an adventure puzzle.
+- The player should explore the environment and discover what needs to be done.
+- Only add items to the to-do list when the player discovers something in the environment.
+- Keep the player abilities limited to movement and environment interaction.
+- Avoid using a HUD to display information. Let the environment speak for itself.
+- Add some secret tasks that don't appear until they're accomplished.
+- Add hidden items in the environment to be collected.
+- (T.S. Eliot) "And the end of all our exploring will be to arrive where we started and know the place for the first time."
+- [Bartle's Taxonomy](https://www.youtube.com/watch?v=yxpW2ltDNow)
+- [Health System](https://www.youtube.com/watch?v=4AEKbBF3URE)
+
 ## Inspiration
 
 - [Refunct](https://www.youtube.com/watch?v=NiPY61OqRSo)
