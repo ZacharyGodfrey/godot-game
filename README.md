@@ -14,10 +14,6 @@ Along the way, there will be small areas of the world that are not tied to these
 
 As a stretch goal, it would be cool if reaching each of the Points of Interest caused the game world to be permanently changed in some way (add vegetation or animals, change the weather or time of day, unlock new areas, etc.) - though this would not be strictly necessary in the core of the game.
 
->  "And the end of all our exploring will be to arrive where we started and know the place for the first time."
-> 
-> T.S. Eliot
-
 #### Limitations:
 
 **No Death:** In keeping with the low-consequence feel of the game, the player cannot die. Instead, falling off the island simply resets the player to their last safe location on land.
@@ -47,6 +43,10 @@ As a stretch goal, it would be cool if reaching each of the Points of Interest c
 - [Spyro](https://www.youtube.com/watch?v=Eqf0eSkB4Ec)
 - [LittleBigPlanet](https://www.youtube.com/watch?v=Yyr5CS0DwHI)
 - [Fable: The Lost Chapters](https://www.youtube.com/watch?v=EqTvWwQ9JGg)
+
+>  "And the end of all our exploring will be to arrive where we started and know the place for the first time."
+> 
+> T.S. Eliot
 
 ## References
 
