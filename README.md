@@ -4,7 +4,7 @@ A first attempt at making a 3D game with [Godot](https://godotengine.org/) and [
 
 ## Description
 
-The game will be a small, open-world, third-person, exploration and platforming puzzle game set on an island floating in the sky. The art style will be low-poly with a bright, happy color palette. The overall experience should feel relaxing, lightweight, and low-consequence.
+The game will be a small, open-world, third-person, exploration and puzzle game set on an island floating in the sky. The art style will be low-poly with a bright, happy color palette. The overall experience should feel relaxing, lightweight, and low-consequence.
 
 The player character will be an astronaut in a white spacesuit and helmet.
 
@@ -12,7 +12,7 @@ On the island, there will be many electronic systems that are without power. The
 
 As these systems are powered on, they will unlock other parts of the island. These electronic systems will constitute the main puzzles and goals of the game.
 
-The primary goal of the game will be to reach all of the Points of Interest (denoted with bright yellow beams of light) by navigating various platforming puzzles. As a side goal, there will be a number of hidden objects spread around the world to be collected.
+The primary goal of the game will be to fully restore power to the island. As a side goal, there will be a number of hidden objects spread around the world to be collected.
 
 Along the way, there will be small areas of the world that are not tied to these goals. These areas will offer some environmental interaction - more to come on this later.
 
