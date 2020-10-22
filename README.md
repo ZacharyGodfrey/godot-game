@@ -50,6 +50,10 @@ As a stretch goal, it would be cool if reaching each of the Points of Interest c
 
 ## References
 
+#### General
+
+- [Good Puzzle Design](https://www.youtube.com/watch?v=zsjC6fa_YBg)
+
 #### Godot
 
 - [Basics](https://www.youtube.com/watch?v=-D-IcbsdT04)
