@@ -4,24 +4,30 @@ A first attempt at making a 3D game with [Godot](https://godotengine.org/) and [
 
 ## Description
 
-The game will be a small, open-world, third-person, exploration game set on an island with an art style that is low-poly, but not blocky, with a bright and happy color palette.
+The game will be a small, open-world, third-person, exploration and platforming puzzle game set on an island floating in the sky. The art style will be low-poly with a bright, happy color palette. The overall experience should feel relaxing, lightweight, and low-consequence.
 
-## Ideas
+The primary goal of the game will be to reach all of the Points of Interest (denoted with bright yellow beams of light) by navigating various platforming puzzles. As a side goal, there will be a number of hidden objects spread around the world to be collected.
 
-- Use a to-do list to guide the player.
-- Make menus look like paper with writing on it.
-- The game should have a bright, happy look to it.
-- The game should feel relaxing, lightweight, low-consequence.
-- The game should play like an adventure puzzle.
-- The player should explore the environment and discover what needs to be done.
-- Only add items to the to-do list when the player discovers something in the environment.
-- Keep the player abilities limited to movement and environment interaction.
-- Avoid using a HUD to display information. Let the environment speak for itself.
-- Add some secret tasks that don't appear until they're accomplished.
-- Add hidden items in the environment to be collected.
-- Add smaller islands in the ocean around the main island.
-- Maybe add some floating islands in the sky like Avatar's Hallelujah Mountains.
-- (T.S. Eliot) "And the end of all our exploring will be to arrive where we started and know the place for the first time."
+Along the way, there will be small areas of the world that are not tied to these goals. These areas will offer some environmental interaction - more to come on this later.
+
+As a stretch goal, it would be cool if reaching each of the Points of Interest caused the game world to be permanently changed in some way (add vegetation, add animals, unlock new areas, etc.) - though this would not be strictly necessary in the core of the game.
+
+>  "And the end of all our exploring will be to arrive where we started and know the place for the first time."
+> T.S. Eliot
+
+#### Limitations:
+
+**No Death:** In keeping with the low-consequence feel of the game, the player cannot die. Instead, falling off the island simply resets the player to their last safe location on land.
+
+**No Words:** In order to keep the game as accessible as possible, there won't be any words in the game world. This means no dialogue to read, no signs with writing, etc. This also means no heads-up display (HUD). The game should intuitively show you where to go. The use of some symbols may be necessary, but I'll try to avoid those too.
+
+## Accessibility Considerations
+
+- [Curb-Cut Effect](https://www.youtube.com/watch?v=PJoax1Z1x4Y)
+- [Motor Disabilities](https://www.youtube.com/watch?v=Ufe0i26DGiA)
+- [Colorblindness and Low Vision](https://www.youtube.com/watch?v=xrqdU4cZaLw)
+- [Deaf and Hard of Hearing](https://www.youtube.com/watch?v=4NGe4dzlukc)
+- [Cognitive Disabilities](https://www.youtube.com/watch?v=ObhvacfIOg0)
 
 ## Inspiration
 
@@ -35,14 +41,6 @@ The game will be a small, open-world, third-person, exploration game set on an i
 - [Firewatch](https://www.youtube.com/watch?v=O_r6t6_bN3c)
 - [Lonely Mountains Downhill](https://www.youtube.com/watch?v=D9DCEm4u6QA)
 - [Mythopia](https://www.youtube.com/watch?v=2tUoT0RPOXY)
-
-## Accessibility Considerations
-
-- [Curb-Cut Effect](https://www.youtube.com/watch?v=PJoax1Z1x4Y)
-- [Motor Disabilities](https://www.youtube.com/watch?v=Ufe0i26DGiA)
-- [Colorblindness and Low Vision](https://www.youtube.com/watch?v=xrqdU4cZaLw)
-- [Deaf and Hard of Hearing](https://www.youtube.com/watch?v=4NGe4dzlukc)
-- [Cognitive Disabilities](https://www.youtube.com/watch?v=ObhvacfIOg0)
 
 ## References
 
