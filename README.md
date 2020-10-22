@@ -8,6 +8,10 @@ The game will be a small, open-world, third-person, exploration and platforming 
 
 The player character will be an astronaut in a white spacesuit and helmet.
 
+On the island, there will be many electronic systems that are without power. These will need to be powered on in various ways: plug in cables, install batteries, uncover solar panels, unblock water flowing into a turbine, etc.
+
+As these systems are powered on, they will unlock other parts of the island. These electronic systems will constitute the main puzzles and goals of the game.
+
 The primary goal of the game will be to reach all of the Points of Interest (denoted with bright yellow beams of light) by navigating various platforming puzzles. As a side goal, there will be a number of hidden objects spread around the world to be collected.
 
 Along the way, there will be small areas of the world that are not tied to these goals. These areas will offer some environmental interaction - more to come on this later.
