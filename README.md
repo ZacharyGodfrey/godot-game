@@ -76,6 +76,7 @@ The game will be a small, open-world, third-person, exploration game set on an i
 
 - [Low-Poly Modeling Tutorial](https://www.youtube.com/watch?v=1jHUY3qoBu8)
 - [Low-Poly Characters & Animation](https://www.youtube.com/watch?v=TZDnV4KshM8)
-- [Low-Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg)
+- [Low-Poly Island 1](https://www.youtube.com/watch?v=3njdzYh_1GM)
+- [Low-Poly Island 2](https://www.youtube.com/watch?v=0lj643VmTsg)
 - [Generate Organic Colliders](https://www.youtube.com/watch?v=Mq-_FffB2eE)
 - [Set Object Origin](https://www.youtube.com/watch?v=_ojeeuNtJM8)
