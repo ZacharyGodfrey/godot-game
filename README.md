@@ -19,6 +19,8 @@ The game will be a small, open-world, third-person, exploration game set on an i
 - Avoid using a HUD to display information. Let the environment speak for itself.
 - Add some secret tasks that don't appear until they're accomplished.
 - Add hidden items in the environment to be collected.
+- Add smaller islands in the ocean around the main island.
+- Maybe add some floating islands in the sky like Avatar's Hallelujah Mountains.
 - (T.S. Eliot) "And the end of all our exploring will be to arrive where we started and know the place for the first time."
 - [Bartle's Taxonomy](https://www.youtube.com/watch?v=yxpW2ltDNow)
 - [Health System](https://www.youtube.com/watch?v=4AEKbBF3URE)
