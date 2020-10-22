@@ -47,6 +47,7 @@ The game will be a small, open-world, third-person, exploration game set on an i
 - [Basics](https://www.youtube.com/watch?v=-D-IcbsdT04)
 - [1st-Person](https://www.youtube.com/watch?v=Nn2mi5sI8bM)
 - [3rd-Person](https://www.youtube.com/watch?v=Lxx6M1AQVeU)
+- [3rd-Person Playlist](https://www.youtube.com/playlist?list=PLqbBeBobXe09NZez_1LLRcT7NQ9NfUCBC)
 - [Crouching](https://www.youtube.com/watch?v=PqRiIWo8hSE)
 - [Gravity & Jumping](https://www.youtube.com/watch?v=MjLuzOzZlmk)
 - [ADS](https://www.youtube.com/watch?v=K53bAYLXKDw)
