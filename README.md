@@ -13,6 +13,7 @@ Along the way, there will be small areas of the world that are not tied to these
 As a stretch goal, it would be cool if reaching each of the Points of Interest caused the game world to be permanently changed in some way (add vegetation, add animals, unlock new areas, etc.) - though this would not be strictly necessary in the core of the game.
 
 >  "And the end of all our exploring will be to arrive where we started and know the place for the first time."
+> 
 > T.S. Eliot
 
 #### Limitations:
