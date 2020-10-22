@@ -50,11 +50,6 @@ As a stretch goal, it would be cool if reaching each of the Points of Interest c
 
 ## References
 
-#### General
-
-- [Bartle's Taxonomy](https://www.youtube.com/watch?v=yxpW2ltDNow)
-- [Health System](https://www.youtube.com/watch?v=4AEKbBF3URE)
-
 #### Godot
 
 - [Basics](https://www.youtube.com/watch?v=-D-IcbsdT04)
