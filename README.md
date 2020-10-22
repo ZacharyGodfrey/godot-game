@@ -47,6 +47,8 @@ The game will be a small, open-world, third-person, exploration game set on an i
 
 ## References
 
+#### Godot
+
 - [Basics](https://www.youtube.com/watch?v=-D-IcbsdT04)
 - [1st-Person](https://www.youtube.com/watch?v=Nn2mi5sI8bM)
 - [3rd-Person](https://www.youtube.com/watch?v=Lxx6M1AQVeU)
@@ -66,3 +68,7 @@ The game will be a small, open-world, third-person, exploration game set on an i
 - [Low-Poly Terrain](https://www.youtube.com/watch?v=mGCwjvAibyw)
 - [Low-Poly Grass](https://www.youtube.com/watch?v=GLtdy3jiAp0)
 - [Gridmaps](https://www.youtube.com/watch?v=jD04Tua191Q)
+
+#### Blender
+
+- [Low-Poly Character Modeling](https://www.youtube.com/watch?v=TZDnV4KshM8)
