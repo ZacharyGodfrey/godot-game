@@ -43,6 +43,7 @@ As a stretch goal, it would be cool if reaching each of the Points of Interest c
 - [Lonely Mountains Downhill](https://www.youtube.com/watch?v=D9DCEm4u6QA)
 - [Mythopia](https://www.youtube.com/watch?v=2tUoT0RPOXY)
 - [Spyro](https://www.youtube.com/watch?v=Eqf0eSkB4Ec)
+- [LittleBigPlanet](https://www.youtube.com/watch?v=Yyr5CS0DwHI)
 - [Fable: The Lost Chapters](https://www.youtube.com/watch?v=EqTvWwQ9JGg)
 
 ## References
