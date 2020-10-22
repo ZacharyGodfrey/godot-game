@@ -6,6 +6,8 @@ A first attempt at making a 3D game with [Godot](https://godotengine.org/) and [
 
 The game will be a small, open-world, third-person, exploration and platforming puzzle game set on an island floating in the sky. The art style will be low-poly with a bright, happy color palette. The overall experience should feel relaxing, lightweight, and low-consequence.
 
+The player character will be an astronaut in a white spacesuit and helmet.
+
 The primary goal of the game will be to reach all of the Points of Interest (denoted with bright yellow beams of light) by navigating various platforming puzzles. As a side goal, there will be a number of hidden objects spread around the world to be collected.
 
 Along the way, there will be small areas of the world that are not tied to these goals. These areas will offer some environmental interaction - more to come on this later.
@@ -24,11 +26,11 @@ As a stretch goal, it would be cool if reaching each of the Points of Interest c
 
 ## Accessibility Considerations
 
-- [Curb-Cut Effect](https://www.youtube.com/watch?v=PJoax1Z1x4Y)
 - [Motor Disabilities](https://www.youtube.com/watch?v=Ufe0i26DGiA)
+- [Cognitive Disabilities](https://www.youtube.com/watch?v=ObhvacfIOg0)
 - [Colorblindness and Low Vision](https://www.youtube.com/watch?v=xrqdU4cZaLw)
 - [Deaf and Hard of Hearing](https://www.youtube.com/watch?v=4NGe4dzlukc)
-- [Cognitive Disabilities](https://www.youtube.com/watch?v=ObhvacfIOg0)
+- [Curb-Cut Effect](https://www.youtube.com/watch?v=PJoax1Z1x4Y)
 
 ## Inspiration
 
