@@ -22,7 +22,7 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 18 )
 transform = Transform( 20, 0, 0, 0, 10, 0, 0, 0, 20, 0, -10, 0 )
 
 [node name="Ocean" parent="." instance=ExtResource( 2 )]
-transform = Transform( 100, 0, 0, 0, 1, 0, 0, 0, 100, 0, -1, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0 )
 
 [node name="BarrierFront" parent="." instance=ExtResource( 5 )]
 transform = Transform( 20, 0, 0, 0, 10, 0, 0, 0, 1, 0, 0, -21 )
