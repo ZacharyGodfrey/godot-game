@@ -12,7 +12,7 @@ The primary goal of the game will be to reach all of the Points of Interest (den
 
 Along the way, there will be small areas of the world that are not tied to these goals. These areas will offer some environmental interaction - more to come on this later.
 
-As a stretch goal, it would be cool if reaching each of the Points of Interest caused the game world to be permanently changed in some way (add vegetation, add animals, change weather, unlock new areas, etc.) - though this would not be strictly necessary in the core of the game.
+As a stretch goal, it would be cool if reaching each of the Points of Interest caused the game world to be permanently changed in some way (add vegetation or animals, change the weather or time of day, unlock new areas, etc.) - though this would not be strictly necessary in the core of the game.
 
 >  "And the end of all our exploring will be to arrive where we started and know the place for the first time."
 > 
