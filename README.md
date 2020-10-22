@@ -71,4 +71,5 @@ The game will be a small, open-world, third-person, exploration game set on an i
 
 #### Blender
 
-- [Low-Poly Character Modeling](https://www.youtube.com/watch?v=TZDnV4KshM8)
+- [Low-Poly Modeling Tutorial](https://www.youtube.com/watch?v=1jHUY3qoBu8)
+- [Low-Poly Characters & Animation](https://www.youtube.com/watch?v=TZDnV4KshM8)
