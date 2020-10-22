@@ -1,6 +1,6 @@
 # Godot Game
 
-A first attempt at making a game with the Godot engine.
+A first attempt at making a 3D game with the Godot game engine and the Blender modeling software.
 
 ## Description
 
