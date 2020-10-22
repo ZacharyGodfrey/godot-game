@@ -8,15 +8,11 @@ The game will be a small, open-world, third-person, exploration and puzzle game 
 
 The player character will be an astronaut in a white spacesuit and helmet.
 
-On the island, there will be many electronic systems that are without power. These will need to be powered on in various ways: plug in cables, install batteries, uncover solar panels, unblock water flowing into a turbine, etc.
-
-As these systems are powered on, they will unlock other parts of the island. These electronic systems will constitute the main puzzles and goals of the game.
+On the island, there will be many electronic systems that are without power. These will need to be powered on in various ways: flip a switch, plug in a cable, install batteries, uncover solar panels, unblock water flowing into a turbine, etc. As these systems are powered on, they will unlock other parts of the island.
 
 The primary goal of the game will be to fully restore power to the island. As a side goal, there will be a number of hidden objects spread around the world to be collected.
 
-Along the way, there will be small areas of the world that are not tied to these goals. These areas will offer some environmental interaction - more to come on this later.
-
-As a stretch goal, it would be cool if reaching each of the Points of Interest caused the game world to be permanently changed in some way (add vegetation or animals, change the weather or time of day, unlock new areas, etc.) - though this would not be strictly necessary in the core of the game.
+As power is restored, aspects of the environment will begin to change. Animals will appear and walk around, vegetation will grow, weather will change, etc.
 
 #### Limitations:
 
