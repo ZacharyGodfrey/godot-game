@@ -34,7 +34,7 @@ The game will be a small, open-world, third-person, exploration game set on an i
 - [The Witness](https://www.youtube.com/watch?v=KZokQov_aH0)
 - [Firewatch](https://www.youtube.com/watch?v=O_r6t6_bN3c)
 - [Lonely Mountains Downhill](https://www.youtube.com/watch?v=D9DCEm4u6QA)
-- [Mythopia](https://www.youtube.com/watch?v=2tUoT0RPOXY)
+- [Mythopia from The Adventures of You](https://www.youtube.com/watch?v=2tUoT0RPOXY)
 
 ## Accessibility Considerations
 
