@@ -1,6 +1,6 @@
 # Godot Game
 
-A first attempt at making a 3D game with the Godot game engine and the Blender modeling software.
+A first attempt at making a 3D game with [Godot](https://godotengine.org/) and [Blender](https://www.blender.org/).
 
 ## Description
 
@@ -22,8 +22,6 @@ The game will be a small, open-world, third-person, exploration game set on an i
 - Add smaller islands in the ocean around the main island.
 - Maybe add some floating islands in the sky like Avatar's Hallelujah Mountains.
 - (T.S. Eliot) "And the end of all our exploring will be to arrive where we started and know the place for the first time."
-- [Bartle's Taxonomy](https://www.youtube.com/watch?v=yxpW2ltDNow)
-- [Health System](https://www.youtube.com/watch?v=4AEKbBF3URE)
 
 ## Inspiration
 
@@ -46,6 +44,11 @@ The game will be a small, open-world, third-person, exploration game set on an i
 - [Cognitive Disabilities](https://www.youtube.com/watch?v=ObhvacfIOg0)
 
 ## References
+
+#### General
+
+- [Bartle's Taxonomy](https://www.youtube.com/watch?v=yxpW2ltDNow)
+- [Health System](https://www.youtube.com/watch?v=4AEKbBF3URE)
 
 #### Godot
 
