@@ -8,11 +8,20 @@ The game will be a small, open-world, third-person, exploration and puzzle game 
 
 The player character will be an astronaut in a white spacesuit and helmet.
 
-On the island, there will be many electronic systems that are without power. These will need to be powered on in various ways: flip a switch, plug in a cable, install batteries, uncover solar panels, unblock water flowing into a turbine, etc. As these systems are powered on, they will unlock other parts of the island.
+On the island, there will be a man-made structure with many electronic systems that are without power. These will need to be powered on in various ways: flip a switch, plug in a cable, install batteries, uncover solar panels, unblock water flowing into a turbine, etc. As these systems are powered on, they will unlock other parts of the island to explore and restore.
 
-The primary goal of the game will be to fully restore power to the island. As a side goal, there will be a number of hidden objects spread around the world to be collected.
+The primary goal of the game will be to fully restore power to the island structure. As a side goal, there will be a number of hidden objects spread around the world to be collected.
 
-As power is restored, aspects of the environment will begin to change. Animals will appear and walk around, vegetation will grow, weather will change, etc.
+As players observe the floating island, there are many questions they might ask:
+
+- How is this island floating in the sky?
+- Why did people build a structure on the island?
+- Why does the structure require so much electricity?
+- How has the structure fallen into disrepair?
+- How did we get to the island?
+- What happens when power is fully restored?
+
+If I were building a full-length game, it would be worth writing a backstory to answer these questions. Since this is a small game with a limited scope, it might be better to leave the player to imagine their own answers.
 
 ### Limitations:
 
