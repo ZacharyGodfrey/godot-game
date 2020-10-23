@@ -62,6 +62,7 @@ If I were building a full-length game, it would be worth writing a backstory to 
 ### General
 
 - [Good Puzzle Design](https://www.youtube.com/watch?v=zsjC6fa_YBg)
+- [Puzzles vs Problems](https://www.youtube.com/watch?v=w1_zmx-wU0U)
 
 ### Godot
 
