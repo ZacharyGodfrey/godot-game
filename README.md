@@ -14,7 +14,7 @@ The primary goal of the game will be to fully restore power to the island. As a 
 
 As power is restored, aspects of the environment will begin to change. Animals will appear and walk around, vegetation will grow, weather will change, etc.
 
-#### Limitations:
+### Limitations:
 
 **No Death:** In keeping with the low-consequence feel of the game, the player cannot die. Instead, falling off the island simply resets the player to their last safe location on land.
 
@@ -50,11 +50,11 @@ As power is restored, aspects of the environment will begin to change. Animals w
 
 ## References
 
-#### General
+### General
 
 - [Good Puzzle Design](https://www.youtube.com/watch?v=zsjC6fa_YBg)
 
-#### Godot
+### Godot
 
 - [Basics](https://www.youtube.com/watch?v=-D-IcbsdT04)
 - [1st-Person](https://www.youtube.com/watch?v=Nn2mi5sI8bM)
@@ -76,7 +76,7 @@ As power is restored, aspects of the environment will begin to change. Animals w
 - [Low-Poly Grass](https://www.youtube.com/watch?v=GLtdy3jiAp0)
 - [Gridmaps](https://www.youtube.com/watch?v=jD04Tua191Q)
 
-#### Blender
+### Blender
 
 - [Low-Poly Modeling Tutorial](https://www.youtube.com/watch?v=1jHUY3qoBu8)
 - [Low-Poly Characters & Animation](https://www.youtube.com/watch?v=TZDnV4KshM8)
