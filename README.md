@@ -29,13 +29,21 @@ If I were building a full-length game, it would be worth writing a backstory to 
 
 **No Words:** In order to keep the game as accessible as possible, there won't be any words in the game world. This means no dialogue to read, no signs with writing, etc. This also means no heads-up display (HUD). The game should intuitively show you where to go. The use of some symbols may be necessary, but I'll try to avoid those too.
 
-## Accessibility Considerations
+## Considerations
+
+### Accessibility
 
 - [Motor Disabilities](https://www.youtube.com/watch?v=Ufe0i26DGiA)
 - [Cognitive Disabilities](https://www.youtube.com/watch?v=ObhvacfIOg0)
 - [Colorblindness and Low Vision](https://www.youtube.com/watch?v=xrqdU4cZaLw)
 - [Deaf and Hard of Hearing](https://www.youtube.com/watch?v=4NGe4dzlukc)
 - [Curb-Cut Effect](https://www.youtube.com/watch?v=PJoax1Z1x4Y)
+
+### Humane Design
+
+- [Humane Design](https://www.youtube.com/watch?v=GArkyxP8-n0)
+- [Exit Points](https://www.youtube.com/watch?v=GqjkWec61gQ)
+- [Arbitrary Endpoint Trap](https://www.youtube.com/watch?v=S8ma4QM2tyE)
 
 ## Inspiration
 
