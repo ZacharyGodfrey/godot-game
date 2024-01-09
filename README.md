@@ -42,6 +42,8 @@ A first attempt at making a 3D game with [Godot](https://godotengine.org/) and [
 
 ### General
 
+- [Bartle's Taxonomy](https://www.youtube.com/watch?v=yxpW2ltDNow)
+- [Health System](https://www.youtube.com/watch?v=4AEKbBF3URE)
 - [Good Puzzle Design](https://www.youtube.com/watch?v=zsjC6fa_YBg)
 - [Puzzles vs Problems](https://www.youtube.com/watch?v=w1_zmx-wU0U)
 
