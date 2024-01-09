@@ -8,7 +8,7 @@ The game will be a small, open-world, third-person, exploration and platformer g
 
 The primary goal of the game will be to fully explore the island - reaching all of the designated points of interest - by platforming. As a side goal, there will be a number of hidden objects spread around the world to be collected.
 
-### Limitations:
+### Limitations
 
 **No Death:** In keeping with the low-consequence feel of the game, the player cannot die. Instead, falling off the island simply resets the player to their last safe location on land.
 
@@ -88,3 +88,7 @@ The primary goal of the game will be to fully explore the island - reaching all 
 - [Low-Poly Island 2](https://www.youtube.com/watch?v=0lj643VmTsg)
 - [Generate Organic Colliders](https://www.youtube.com/watch?v=Mq-_FffB2eE)
 - [Set Object Origin](https://www.youtube.com/watch?v=_ojeeuNtJM8)
+
+## Performance
+
+- [Rendering](https://www.youtube.com/watch?v=CHYxjpYep_M)
