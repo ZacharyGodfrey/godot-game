@@ -2,18 +2,6 @@
 
 A first attempt at making a 3D game with [Godot](https://godotengine.org/) and [Blender](https://www.blender.org/).
 
-## Description
-
-The game will be a small, open-world, third-person, exploration and platformer game set on an island floating in the sky. The art style will be low-poly with a bright, happy color palette. The overall experience should feel relaxing, lightweight, and low-consequence.
-
-The primary goal of the game will be to fully explore the island - reaching all of the designated points of interest - by platforming. As a side goal, there will be a number of hidden objects spread around the world to be collected.
-
-### Limitations
-
-**No Death:** In keeping with the low-consequence feel of the game, the player cannot die. Instead, falling off the island simply resets the player to their last safe location on land.
-
-**No Words:** In order to keep the game as accessible as possible, there won't be any words in the game world. This means no dialogue to read, no signs with writing, etc. This also means no heads-up display (HUD). The game should intuitively show you where to go. The use of some symbols may be necessary, but I'll try to avoid those too.
-
 ## Considerations
 
 ### Accessibility
@@ -48,7 +36,7 @@ The primary goal of the game will be to fully explore the island - reaching all 
 
 >  "And the end of all our exploring will be to arrive where we started and know the place for the first time."
 > 
-> T.S. Eliot
+> \- T.S. Eliot
 
 ## References
 
