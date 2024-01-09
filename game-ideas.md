@@ -4,6 +4,18 @@ A list of ideas for games that could be made.
 
 ---
 
+## Platformer
+
+The game will be a small, open-world, third-person, exploration and platformer game set on an island floating in the sky. The art style will be low-poly with a bright, happy color palette. The overall experience should feel relaxing, lightweight, and low-consequence.
+
+The primary goal of the game will be to fully explore the island - reaching all of the designated points of interest - by platforming. As a side goal, there will be a number of hidden objects spread around the world to be collected.
+
+**No Death:** In keeping with the low-consequence feel of the game, the player cannot die. Instead, falling off the island simply resets the player to their last safe location on land.
+
+**No Words:** In order to keep the game as accessible as possible, there won't be any words in the game world. This means no dialogue to read, no signs with writing, etc. This also means no heads-up display (HUD). The game should intuitively show you where to go. The use of some symbols may be necessary, but I'll try to avoid those too.
+
+---
+
 ## Casual Shooter
 
 A casual, browser-based, low-poly, sandbox shooter that skips the grind and respects your time.
