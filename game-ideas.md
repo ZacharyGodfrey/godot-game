@@ -28,6 +28,14 @@ The primary goal of the game will be to fully explore the island - reaching all 
 
 ---
 
+## Home Defense
+
+A single-player FPS game where you defend your home from various threats.
+
+More details TBD.
+
+---
+
 ## Casual Shooter
 
 A casual, browser-based, low-poly, sandbox shooter that skips the grind and respects your time.
