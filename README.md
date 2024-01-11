@@ -40,6 +40,13 @@ A first attempt at making a 3D game with [Godot](https://godotengine.org/) and [
 
 ## References
 
+### Game Development
+
+- [Getting Started](https://www.youtube.com/watch?v=z06QR-tz1_o)
+- [Setting Goals](https://www.youtube.com/watch?v=dHMNeNapL1E)
+- [Minimum Viable Product](https://www.youtube.com/watch?v=UvCri1tqIxQ)
+- [Launching](https://www.youtube.com/watch?v=qxsEimJ_3bM)
+
 ### General
 
 - [Bartle's Taxonomy](https://www.youtube.com/watch?v=yxpW2ltDNow)
