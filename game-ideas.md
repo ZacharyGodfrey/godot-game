@@ -4,6 +4,26 @@ A list of ideas for games that could be made.
 
 ---
 
+### Creature Hunter
+
+Three types of creatures: ants, spiders, and scorpions. Names are temporary.
+
+Three types of weapons: pistol, shotgun, rifle.
+
+Pistol kills ants with one shot, breaks spiders into several ants, kills scorpions in five shots. Close range.
+
+Shotgun kills everything with one shot, doesn’t break spiders. Close range.
+
+Rifle kills everything with one shot, doesn’t break spiders. Long range, very limited ammo.
+
+Ants wander, flee, and fight in that order by proximity.
+
+Spiders wander and fight, no flee option.
+
+Scorpions are always in fight mode, but stay within a radius of their origin point.
+
+---
+
 ## Sleepwalkers
 
 **TLDR:** It's essentially a PvE zombie survival shooter but way more chill.
