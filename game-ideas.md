@@ -8,11 +8,20 @@ A list of ideas for games that could be made.
 
 Shoot creatures to survive and navigate the terrain to exit the park.
 
+### Themes
+
+- Combat and survival
+- Strategy and planning
+- Exploration and platforming
+- Collection and completion
+
 ### Challenges
 
-- Kill every creature before exiting
-- Exit without killing any creatures
-- Collect all items before exiting
+- Perfectionist: Exit without taking any damage
+- Exterminator: Exit after killing every creature
+- Collector: Exit after collecting every item
+- Masochist: Achieve Perfectionist, Exterminator, and Collector in a single run
+- Conservationist: Exit without killing any creatures
 
 ### Movement
 
@@ -57,24 +66,18 @@ Names are temporary.
 - Pistol
   - 10 damage
   - Close range (large awareness radius), hitscan
-  - Ammo is unlimited
+  - Max ammo is 100
   - Reload every 10 shots
 - Rifle
-  - 50 damage
+  - 25 damage
   - Long range, hitscan
-  - Ammo is unlimited
+  - Max ammo is 10
   - Reload every 5 shots
 - Crossbow
   - 50 damage
   - Long range, projectile
+  - Max ammo is 5
   - Reload after every shot
-
-### Features
-
-- Exploration and platforming
-- Collection and completion
-- Strategy and planning
-- Combat and survival
 
 ---
 
