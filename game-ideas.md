@@ -6,30 +6,63 @@ A list of ideas for games that could be made.
 
 ## Creature Hunter
 
-Spyro with guns. You move through each area shooting creatures and collecting items.
-
-As you explore each area, you find entry points into new areas.
+Spyro with guns: you move through each area shooting creatures and collecting items. As you explore each area, you find entry points into new areas.
 
 Each area has a fixed number of creatures. Once cleared, no new creatures spawn unless you leave the area and come back.
 
-Collect all the items in all the areas to access the final area.
+Collect all the items in all the areas to access the final area. In the final area, the creatures never stop spawning. The goal of this area is to survive and reach the exit at the end of the somewhat linear landscape.
 
-In the final area, the creatures never stop spawning. The goal of this area is to reach the exit at the end of the somewhat linear landscape.
+### Movement
+
+You can run and jump, and you can store your weapons to switch to third-person view and run faster.
+
+- Third-person view and 100% movement speed when weapons are stored
+- First-person view and 75% movement speed when a weapon is drawn
+- ADS view and 50% movement speed when aiming a weapon
+
+### Health
+
+- Health starts at 100
+- Health regenerates over time
+- Health resets to full when moving between areas
+- No fall damage from any height
 
 ### Creatures
 
 Names are temporary.
 
-- Ants: wander, flee, and fight in that order by proximity
-- Spiders: wander and fight, no flee option
-- Scorpions: always in fight mode, stay within a radius of their origin point
+- Ants
+  - 10 health, 10 damage
+  - 75% movement speed
+  - Small awareness radius
+  - Once aware, will chase you until dead
+- Spiders
+  - 20 health, 20 damage
+  - 60% movement speed
+  - Medium awareness radius
+  - Once aware, will chase you until you escape awareness radius
+- Scorpions
+  - 50 health, 50 damage
+  - 50% movement speed
+  - Large awareness radius
+  - Territorial, will stay close to spawn point
+- Hornets
+  - 50 health, 25 damage
+  - 50% movement speed, can fly
+  - Once aware, will chase you until dead
 
 ### Weapons
 
-You can put your weapon away to switch to third-person view and run faster.
-
-- Pistol: kills ants with one shot, breaks spiders into several ants, kills scorpions in three shots. Close range, unlimited ammo.
-- Rifle: kills everything with one shot, doesn’t break spiders. Long range, limited ammo.
+- Pistol
+  - 10 damage
+  - Close range
+  - Ammo is unlimited
+  - Reload every 10 shots
+- Rifle
+  - 50 damage
+  - Long range
+  - Ammo is limited to 10 rounds, regenerates over time
+  - Reload after every shot
 
 ### Features
 
