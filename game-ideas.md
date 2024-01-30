@@ -6,11 +6,13 @@ A list of ideas for games that could be made.
 
 ## Creature Hunter
 
-Spyro with guns: you move through each area shooting creatures and collecting items. As you explore each area, you find entry points into new areas.
+Shoot creatures to survive and navigate the terrain to exit the park.
 
-Each area has a fixed number of creatures. Once cleared, no new creatures spawn unless you leave the area and come back.
+### Challenges
 
-Collect all the items in all the areas to access the final area. In the final area, the creatures never stop spawning. The goal of this area is to survive and reach the exit at the end of the somewhat linear landscape.
+- Kill every creature before exiting
+- Exit without killing any creatures
+- Collect all items before exiting
 
 ### Movement
 
@@ -22,9 +24,7 @@ You can run and jump, and you can store your weapons to switch to third-person v
 
 ### Health
 
-- Health starts at 100
-- Health regenerates over time
-- Health resets to full when moving between areas
+- Health starts at 100 and does not regenerate
 - No fall damage from any height
 
 ### Creatures
@@ -49,19 +49,24 @@ Names are temporary.
 - Hornets
   - 50 health, 25 damage
   - 50% movement speed, can fly
+  - Medium awareness radius
   - Once aware, will chase you until dead
 
 ### Weapons
 
 - Pistol
   - 10 damage
-  - Close range
+  - Close range (large awareness radius), hitscan
   - Ammo is unlimited
   - Reload every 10 shots
 - Rifle
   - 50 damage
-  - Long range
-  - Ammo is limited to 10 rounds, regenerates over time
+  - Long range, hitscan
+  - Ammo is unlimited
+  - Reload every 5 shots
+- Crossbow
+  - 50 damage
+  - Long range, projectile
   - Reload after every shot
 
 ### Features
