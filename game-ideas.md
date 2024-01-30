@@ -4,25 +4,32 @@ A list of ideas for games that could be made.
 
 ---
 
-### Creature Hunter
+## Creature Hunter
 
-Like in Spyro, you move through each area collecting items and killing bugs. As you explore each area, you find the entry points into new areas.
+Spyro with guns. You move through each area collecting items and killing bugs.
 
-Three types of creatures: ants, spiders, and scorpions. Names are temporary.
+As you explore each area, you find the entry points into new areas.
 
-Ants wander, flee, and fight in that order by proximity.
+### Creatures
 
-Spiders wander and fight, no flee option.
+Names are temporary.
 
-Scorpions are always in fight mode, but stay within a radius of their origin point.
+- Ants: wander, flee, and fight in that order by proximity
+- Spiders: wander and fight, no flee option
+- Scorpions: always in fight mode, stay within a radius of their origin point
 
-Two types of weapons: pistol and hunting rifle.
+### Weapons
 
-Pistol kills ants with one shot, breaks spiders into several ants, kills scorpions in three shots. Close range, unlimited ammo.
-
-Rifle kills everything with one shot, doesn’t break spiders. Long range, but limited ammo.
+- Pistol: kills ants with one shot, breaks spiders into several ants, kills scorpions in three shots. Close range, unlimited ammo.
+- Rifle: kills everything with one shot, doesn’t break spiders. Long range, but limited ammo.
 
 You can put your weapon away to switch to third-person view and run faster.
+
+### Features
+
+- Exploration and platforming
+- Collection and completion
+- Combat and survival
 
 ---
 
