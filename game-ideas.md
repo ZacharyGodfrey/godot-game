@@ -10,6 +10,12 @@ Spyro with guns. You move through each area shooting creatures and collecting it
 
 As you explore each area, you find entry points into new areas.
 
+Each area has a fixed number of creatures. Once cleared, no new creatures spawn unless you leave the area and come back.
+
+Collect all the items in all the areas to access the final area.
+
+In the final area, the creatures never stop spawning. The goal of this area is to reach the exit at the end of the somewhat linear landscape.
+
 ### Creatures
 
 Names are temporary.
