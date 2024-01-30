@@ -22,6 +22,8 @@ Spiders wander and fight, no flee option.
 
 Scorpions are always in fight mode, but stay within a radius of their origin point.
 
+Like in Spyro, you move through each area collecting items and killing bugs. As you explore each area, you find the entry points into new areas.
+
 ---
 
 ## Sleepwalkers
