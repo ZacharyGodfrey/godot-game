@@ -1,6 +1,6 @@
 # Creature Hunter
 
-Shoot creatures to survive and navigate the terrain to exit the park.
+Shoot creatures to survive and exit the park.
 
 ## Themes
 
@@ -9,13 +9,9 @@ Shoot creatures to survive and navigate the terrain to exit the park.
 - Exploration and platforming
 - Collection and completion
 
-## Challenges
+## Environment
 
-- **Perfectionist:** Exit without taking any damage
-- **Exterminator:** Exit after killing every creature
-- **Collector:** Exit after collecting every item
-- **Masochist:** Achieve Perfectionist, Exterminator, and Collector in a single run
-- **Pacifist:** Exit without killing any creatures
+A low-poly park with grass, trees, and rocks. Light, happy feeling environment with birds chirping in the background.
 
 ## Movement
 
@@ -29,6 +25,7 @@ You can run and jump, and you can store your weapons to switch to third-person v
 
 - Health starts at 100 and does not regenerate
 - No fall damage from any height
+- Game resets on death
 
 ## Creatures
 
@@ -67,3 +64,11 @@ Names are temporary.
   - Long range, hitscan
   - Reload after every shot
   - Infinite ammo
+
+## Challenges
+
+- **Perfectionist:** Exit without taking any damage
+- **Exterminator:** Exit after killing every creature
+- **Collector:** Exit after collecting every item
+- **Masochist:** Achieve Perfectionist, Exterminator, and Collector in a single run
+- **Pacifist:** Exit without killing any creatures
