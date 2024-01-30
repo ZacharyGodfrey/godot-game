@@ -6,7 +6,7 @@ A list of ideas for games that could be made.
 
 ## Creature Hunter
 
-Spyro with guns. You move through each area collecting items and shooting creatures.
+Spyro with guns. You move through each area shooting creatures and collecting items.
 
 As you explore each area, you find entry points into new areas.
 
