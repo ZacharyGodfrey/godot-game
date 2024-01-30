@@ -53,8 +53,8 @@ Names are temporary.
 - Scorpions
   - 50 health, 50 damage
   - 50% movement speed
-  - Large awareness radius
-  - Territorial, will stay close to spawn point
+  - Large awareness radius fixed to spawn point
+  - Once aware, will attack you within radius of spawn point
 - Hornets
   - 50 health, 25 damage
   - 50% movement speed, can fly
@@ -71,8 +71,8 @@ Names are temporary.
 - Rifle
   - 50 damage
   - Long range, hitscan
-  - Max ammo is 10
-  - Reload every 5 shots
+  - Reload after every shot
+  - Infinite ammo
 
 ---
 
