@@ -33,3 +33,33 @@ Intro videos are filler content that add no value to the player. When you only h
 ### No SBMM
 
 Lobbies arranged by ping are assembled faster, reduce lag issues for everyone, and make the gameplay less sweaty. Sure, players will get a more varied mix of skill levels in their matches, but that's what makes them fun.
+
+## Gameplay Ideas
+
+I want the game to be as small as possible while still being fun. Here's the MVP:
+
+- One game mode
+- One map
+- One weapon
+- One attachment category
+- One attachment option
+- One equipment option
+
+Once that's implemented, here's what I'd add to make it more fun:
+
+- Additional weapon categories
+- Additional attachment options
+- Additional attachment categories
+- Additional equipment options
+- Additional maps
+
+### MVP
+
+||||
+|---|---|---|
+|Game Mode|Free For All|5 players, 5 minutes, most kills wins|
+|Map|The Pit|Similar to the Halo map by the same name|
+|Weapon|Pistol|Semi-auto, 10 round mag, 3 shots to kill|
+|Attachment Category|Optic||
+|Attachment Option|Red Dot||
+|Equipment Option|Frag Grenade||
