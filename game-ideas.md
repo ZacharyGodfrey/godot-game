@@ -26,10 +26,10 @@ Names are temporary.
 
 ### Weapons
 
+You can put your weapon away to switch to third-person view and run faster.
+
 - Pistol: kills ants with one shot, breaks spiders into several ants, kills scorpions in three shots. Close range, unlimited ammo.
 - Rifle: kills everything with one shot, doesn’t break spiders. Long range, limited ammo.
-
-You can put your weapon away to switch to third-person view and run faster.
 
 ### Features
 
