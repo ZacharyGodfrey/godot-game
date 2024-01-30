@@ -22,6 +22,7 @@ A first attempt at making a 3D game with [Godot](https://godotengine.org/) and [
 
 - [Spyro](https://www.youtube.com/watch?v=lrVKjNR0-SE)
 - [Smalland](https://www.youtube.com/watch?v=lA1JE7OmIoM)
+- [Tunic](https://www.youtube.com/watch?v=1ml33OCwfHI)
 - [Refunct](https://www.youtube.com/watch?v=NiPY61OqRSo)
 - [Youropa](https://www.youtube.com/watch?v=idlFdCiXP58)
 - [Tropical Paradise](https://www.youtube.com/watch?v=AkJF14CLVCk)
