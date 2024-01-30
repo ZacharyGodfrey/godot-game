@@ -66,18 +66,13 @@ Names are temporary.
 - Pistol
   - 10 damage
   - Close range (large awareness radius), hitscan
-  - Max ammo is 100
   - Reload every 10 shots
+  - Infinite ammo
 - Rifle
-  - 25 damage
+  - 50 damage
   - Long range, hitscan
   - Max ammo is 10
   - Reload every 5 shots
-- Crossbow
-  - 50 damage
-  - Long range, projectile
-  - Max ammo is 5
-  - Reload after every shot
 
 ---
 
