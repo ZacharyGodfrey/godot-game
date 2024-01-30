@@ -17,11 +17,11 @@ Shoot creatures to survive and navigate the terrain to exit the park.
 
 ### Challenges
 
-- Perfectionist: Exit without taking any damage
-- Exterminator: Exit after killing every creature
-- Collector: Exit after collecting every item
-- Masochist: Achieve Perfectionist, Exterminator, and Collector in a single run
-- Pacifist: Exit without killing any creatures
+- **Perfectionist:** Exit without taking any damage
+- **Exterminator:** Exit after killing every creature
+- **Collector:** Exit after collecting every item
+- **Masochist:** Achieve Perfectionist, Exterminator, and Collector in a single run
+- **Pacifist:** Exit without killing any creatures
 
 ### Movement
 
