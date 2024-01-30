@@ -6,9 +6,9 @@ A list of ideas for games that could be made.
 
 ## Creature Hunter
 
-Spyro with guns. You move through each area collecting items and killing bugs.
+Spyro with guns. You move through each area collecting items and shooting creatures.
 
-As you explore each area, you find the entry points into new areas.
+As you explore each area, you find entry points into new areas.
 
 ### Creatures
 
@@ -21,7 +21,7 @@ Names are temporary.
 ### Weapons
 
 - Pistol: kills ants with one shot, breaks spiders into several ants, kills scorpions in three shots. Close range, unlimited ammo.
-- Rifle: kills everything with one shot, doesn’t break spiders. Long range, but limited ammo.
+- Rifle: kills everything with one shot, doesn’t break spiders. Long range, limited ammo.
 
 You can put your weapon away to switch to third-person view and run faster.
 
