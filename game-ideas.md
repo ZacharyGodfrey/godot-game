@@ -35,6 +35,7 @@ You can put your weapon away to switch to third-person view and run faster.
 
 - Exploration and platforming
 - Collection and completion
+- Strategy and planning
 - Combat and survival
 
 ---
