@@ -37,22 +37,22 @@ Names are temporary.
   - 10 health, 10 damage
   - 75% movement speed
   - Small awareness radius
-  - Once aware, will chase you until dead
+  - Once alerted, will chase you until dead
 - Spiders
   - 20 health, 20 damage
   - 60% movement speed
   - Medium awareness radius
-  - Once aware, will chase you until you escape awareness radius
+  - Once alerted, will chase you until you escape awareness radius
 - Scorpions
   - 50 health, 50 damage
   - 50% movement speed
   - Large awareness radius fixed to spawn point
-  - Once aware, will attack you within radius of spawn point
+  - Once alerted, will attack you within radius of spawn point
 - Hornets
   - 50 health, 25 damage
   - 50% movement speed, can fly
   - Medium awareness radius
-  - Once aware, will chase you until dead
+  - Once alerted, will chase you until dead
 
 ## Weapons
 
