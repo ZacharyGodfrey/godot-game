@@ -1,6 +1,6 @@
 # Creature Hunter
 
-Shoot creatures to survive and exit the park.
+In this third-person shooter, you are a lone park ranger trapped in a park full of dangerous creatures. Armed with a pistol and hunting rifle, you must navigate the terrain and make your way to the park's exit. Each type of creature presents a unique challenge, so choose your battles carefully if you choose to engage.
 
 ## Themes
 
@@ -11,17 +11,31 @@ Shoot creatures to survive and exit the park.
 
 ## Environment
 
-A low-poly park with grass, trees, and rocks. Light, happy feeling environment with birds chirping in the background.
+A low-poly park with grass, trees, rocks, and cliffs. A bright, happy feeling environment with birds chirping in the background.
 
-The overall feeling of the game should be that you are in control of the experience. You can keep your distance and play slowly and methodically and treat it like a puzzle to be solved, or you can rush in and fight up close like a frenzied zombie survival game where you're being chased down by the creatures.
+The overall feeling of the game should be that you are in control of the experience. You can keep your distance and treat it like a puzzle to be slowly and methodically solved, or you can rush in and fight up close like a frenzied survival game where you're being chased down until the very end.
 
-## Movement
+## Actions and Controls
 
-You can run and jump, and you can store your weapons to switch to third-person view and run faster.
+- Look (mouse, stick)
+- Move (WASD, stick)
+- Jump (space, A)
+- Draw and store your weapon (F, B)
+- Switch weapons (C, Y)
+- Aim (right mouse, left trigger)
+- Shoot (left mouse, right trigger)
+- Reload (R, X)
 
-- Third-person view and 100% movement speed when weapons are stored
-- First-person view and 75% movement speed when a weapon is drawn
-- ADS view and 50% movement speed when aiming a weapon
+## Perspective and Speed
+
+- Most actions are performed from the (default) third-person wide perspective
+- Holding the aim button with the pistol drawn will pull the character to the bottom left corner in a third-person tight perspective
+- Holding the aim button with the rifle drawn will switch to a first-person scoped perspective
+
+- Third-person wide view has 100% movement speed when weapons are stored
+- Third-person wide view has 85% movement speed when weapons are drawn
+- Third-person tight view (aiming pistol) has 75% movement speed when weapons are drawn
+- First-person view (aiming rifle) has 50% movement speed when weapons are drawn
 
 ## Health
 
