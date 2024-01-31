@@ -79,3 +79,7 @@ Names are temporary.
 - **Collector:** Exit after collecting every item
 - **Masochist:** Achieve Perfectionist, Exterminator, and Collector in a single run
 - **Pacifist:** Exit without killing any creatures
+
+## Implementation Ideas
+
+The main menu could be the same scene as the game, with the character standing in the initial safe area in third-person view facing the screen and the camera position fixed.The menu would just be an overlay. When you hit the Start button, the menu disappears, the creatures spawn in, and you take control of the character. There's no loading transition, you're just immediately in the action.
