@@ -97,3 +97,24 @@ Names are temporary.
 ## Implementation Ideas
 
 The main menu could be the same scene as the game, with the character standing in the initial safe area in third-person view facing the screen and the camera position fixed.The menu would just be an overlay. When you hit the Start button, the menu disappears, the creatures spawn in, and you take control of the character. There's no loading transition, you're just immediately in the action.
+
+## Tutorials (Godot 4)
+
+### General
+
+- [Directional Light](https://www.youtube.com/watch?v=ogtDKlTnnqo)
+
+### FPS
+
+- [Basic Setup Repo](https://github.com/StayAtHomeDev-Git/FPS-Godot-Basic-Setup/tree/main)
+- [Movement](https://www.youtube.com/watch?v=N-jh8qc8tJs)
+- [Crosshair](https://www.youtube.com/watch?v=B-PvZgVdU4o)
+- [Debug Panel 1](https://www.youtube.com/watch?v=aRiwRgJC1K4)
+- [Debug Panel 2](https://www.youtube.com/watch?v=P-Owt8ifC-s)
+- [State Machine 1: Setup](https://www.youtube.com/watch?v=VtJXqRsFezY)
+- [State Machine 2: Walking](https://www.youtube.com/watch?v=BxBmHNh4j10)
+- [State Machine 3: Sprinting](https://www.youtube.com/watch?v=GcQTw0IqF4U)
+- [State Machine 4: Optimization](https://www.youtube.com/watch?v=_sVXjXLK74o)
+- [Jumping 1: Basic Jump](https://www.youtube.com/watch?v=4HI_iOM5LfI)
+- [Jumping 2: Jump Strength](https://www.youtube.com/watch?v=4Fwp7A6eiQg)
+- [Jumping 3: Jump Animation](https://www.youtube.com/watch?v=dtBdJzSQ4FY)
