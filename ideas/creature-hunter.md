@@ -13,6 +13,8 @@ Shoot creatures to survive and exit the park.
 
 A low-poly park with grass, trees, and rocks. Light, happy feeling environment with birds chirping in the background.
 
+The overall feeling of the game should be that you are in control of the experience. You can keep your distance and play slowly and methodically and treat it like a puzzle to be solved, or you can rush in and fight up close like a frenzied zombie survival game where you're being chased down by the creatures.
+
 ## Movement
 
 You can run and jump, and you can store your weapons to switch to third-person view and run faster.
