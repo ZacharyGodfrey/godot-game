@@ -38,21 +38,25 @@ Names are temporary.
   - 75% movement speed
   - Small awareness radius
   - Once alerted, will chase you until dead
+  - They're weak but relentless. They'll never stop coming for you, but you can make some space by storing your weapons and running away.
 - Spiders
   - 20 health, 20 damage
   - 60% movement speed
   - Medium awareness radius
   - Once alerted, will chase you until you escape awareness radius
+  - They're a little stronger, but you can outrun them even with a weapon drawn and they'll stop pursuing if you get far enough away.
 - Scorpions
   - 50 health, 50 damage
   - 50% movement speed
   - Large awareness radius fixed to spawn point
   - Once alerted, will attack you within radius of spawn point
+  - They're strong and territorial. They'd rather defend their position than chase you down. Still, your best bet is to keep your distance.
 - Hornets
   - 50 health, 25 damage
   - 50% movement speed, can fly
   - Medium awareness radius
   - Once alerted, will chase you until dead
+  - They're strong, they can fly, and they'll never stop chasing you. Prioritize them over other threats.
 
 ## Weapons
 
