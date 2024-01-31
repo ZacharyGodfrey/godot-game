@@ -69,6 +69,7 @@ Names are temporary.
 
 ## Challenges
 
+- **Collateral:** Kill multiple creatures with a single shot
 - **Perfectionist:** Exit without taking any damage
 - **Exterminator:** Exit after killing every creature
 - **Collector:** Exit after collecting every item
